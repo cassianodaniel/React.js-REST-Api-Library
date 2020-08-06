@@ -1,0 +1,53 @@
+.divBlock{
+    background-color: yellow;
+    max-width: 200px;
+}
+
+section{
+    background-color: rgb(235, 235, 235);
+    max-width: 1298px;
+    position: relative;
+    left: 201px;
+    bottom: 384px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px 10px;
+}
+
+li{
+    list-style: none;
+    border-radius: 8px;
+}
+
+div .bookBlock{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.ant-menu-item-selected a:hover{
+    color: darkblue;    
+}
+
+button{
+    position: relative;
+    bottom: 13px;
+    border: none;
+    color: blue;
+    font-weight: 600;
+    background-color: white;
+}
+
+strong{
+    font-weight: 18px;
+}
+
+div .expandir{
+    width: 95px;
+    position: relative;
+    top: 2px;
+}
