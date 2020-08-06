@@ -1,4 +1,3 @@
-"# Desafio-de-Vaga-para-Junior-Javascript-Developer---Digivox" 
 Desafio loja de aluguel de livros - React
 
 Detalhamento do desafio
